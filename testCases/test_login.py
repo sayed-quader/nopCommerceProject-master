@@ -1,4 +1,5 @@
 import pytest
+import traceback
 from selenium import webdriver
 from pageObjects.LoginPage import LoginPage
 from utilities.readProperties import ReadConfig

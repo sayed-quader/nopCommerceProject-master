@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5c934dea-5fed-4015-8469-eb454c39a6ba" name="Default Changelist" comment="" />
+    <list default="true" id="5c934dea-5fed-4015-8469-eb454c39a6ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/hello.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/nopCommerceProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/nopCommerceProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../sayed_selenium/Sayedproject" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -37,20 +61,59 @@
       <recent name="C:\Users\admin\PycharmProjects\nopCommerceProject\TestData" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test_login">
-    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.hello">
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="nopCommerceProject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="C:\Users\squader\AppData\Local\Programs\Python\Python39\python.exe" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/_pytest" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python39/Lib/site-packages/_pytest/config.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nopCommerceProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testCases" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testCases/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="nopCommerceProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hello.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,10 +143,19 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.conftest" />
+      <item itemvalue="Python.test_login" />
+      <item itemvalue="Python.config" />
+      <item itemvalue="Python.hello" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test_login" />
+        <item itemvalue="Python.hello" />
         <item itemvalue="Python.conftest" />
+        <item itemvalue="Python.config" />
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python.test_login" />
       </list>
     </recent_temporary>
   </component>
@@ -113,44 +185,69 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="484" y="7" key="#conftest" timestamp="1625036342698">
+    <state x="654" y="275" key="#Notifications" timestamp="1628502774928">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="484" y="7" key="#conftest/0.0.1536.824@0.0.1536.824" timestamp="1625036342698" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1626009624977">
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1628502774928" />
+    <state x="535" y="301" key="#Updates" timestamp="1628502807374">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1626009624977" />
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1625060791788">
+    <state x="535" y="301" key="#Updates/0.0.1536.824@0.0.1536.824" timestamp="1628502807374" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1628495959329">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625060791788" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1625060791787">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1628495959329" />
+    <state x="484" y="7" key="#conftest" timestamp="1628497075175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625060791787" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1625060791787">
+    <state x="484" y="7" key="#conftest/0.0.1536.824@0.0.1536.824" timestamp="1628497075175" />
+    <state x="637" y="74" key="EnvironmentVariablesDialog" timestamp="1628497066037">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625060791787" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1625060791787">
+    <state x="637" y="74" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1628497066037" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1628499519176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625060791787" />
-    <state x="282" y="98" key="SettingsEditor" timestamp="1627397149005">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1628499519176" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1628510775622">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="282" y="98" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627397149005" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/testCases/conftest.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628510775622" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1628510775622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1628510775622" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1628510775622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1628510775622" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1628510775622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1628510775622" />
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom" timestamp="1628496087183">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1628496087183" />
+    <state width="1515" height="261" key="GridCell.Tab.1.center" timestamp="1628496087182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1628496087182" />
+    <state width="1515" height="261" key="GridCell.Tab.1.left" timestamp="1628496087181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1628496087181" />
+    <state width="1515" height="261" key="GridCell.Tab.1.right" timestamp="1628496087182">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1628496087182" />
+    <state x="282" y="98" key="SettingsEditor" timestamp="1628512176690">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="282" y="98" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1628512176690" />
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1628496985423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1628496985423" />
   </component>
 </project>
